@@ -21,11 +21,11 @@ Over time, UnstableLandscape has evolved into a **procedural and postdramatic pr
 
 In recent years, **artificial intelligence** has become a key co-creator within UnstableLandscape. I approach AI not as a tool but as a **cognitive and performative partner**, an alien system of perception that expands the ecology of awareness. These collaborations with machine systems reconfigure the boundaries of authorship and agency, opening possibilities for **interspecies cognition**—between human, insect, and algorithmic forms of life.
 
-UnstableLandscape has been **deployed in universities, art centers, and festivals** in the **United States, Germany, Venezuela, and Spain**, adapting to each context as performance, installation, or inquiry-based environment. Many of its components also exist online, as **open-source applications and living systems** that continue to evolve beyond the physical site.
+UnstableLandscape has been **deployed in universities, art centers, and festivals** in the {**United States, Germany, Venezuela, and Spain**](https://marlonbarrios.github.io/pangea_in_latent_space/), adapting to each context as performance, installation, or inquiry-based environment. Many of its components also exist online, as **open-source applications and living systems** that continue to evolve beyond the physical site.
 
 ![PXL_20251003_161719568](https://github.com/user-attachments/assets/5bdc2168-c94d-4f1b-ab11-5d8af4511d93)
 
-This methodology later became the foundation for collaborative projects such as **Pangea in Latent Space** and **The Tectonics of Otherness**, created with **María Luisa Angulo** through **Pangea Inteligencia Artificial (Pangea AI)**—a decolonial and planetary extension of the UnstableLandscape framework, most recently presented at the **Beyond Gravity Festival** in Dortmund, Germany (2025).
+This methodology later became the foundation for collaborative projects such as {**Pangea in Latent Space** and **The Tectonics of Otherness**](https://marlonbarrios.github.io/pangea_in_latent_space/), created with **María Luisa Angulo** through **Pangea Inteligencia Artificial (Pangea AI)**—a decolonial and planetary extension of the UnstableLandscape framework, most recently presented at the **Beyond Gravity Festival** in Dortmund, Germany (2025).
 
 
 
@@ -39,4 +39,4 @@ UnstableLandscape remains a **recursive and open organism**—a choreography of 
 All images taken bt Marlon barrios Solano at Beyond Gravity Festival in Dortmund, Germany (October 1 to 5th 2025)
 
 ![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://github.com/user-attachments/assets/5f5859da-30c1-4bb1-ac47-1ad002b3589d)
-![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://github.com/user-attachments/assets/96dceea2-6615-4790-80ce-076d87d84259)
+
