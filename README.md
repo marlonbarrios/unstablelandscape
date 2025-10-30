@@ -1,13 +1,12 @@
 # UnstableLandscape: Performing Within Cognitive Assemblies
 
-![PXL_20251003_161719568](https://github.com/user-attachments/assets/5bdc2168-c94d-4f1b-ab11-5d8af4511d93)
+![PXL_20251003_141709339](https://github.com/user-attachments/assets/16682a96-2e4d-413f-9ea3-86511f9e1d1b)
 
 I began developing **UnstableLandscape** in 1997 as a living and evolving system—a **procedural ecology** that merges performance, technology, and philosophy. It is not a fixed work but a **hybrid field of emergence**, composed of performances, installations, and lecture-experiments that generate **polyphonic, polymorphic, and multisensorial spaces**. Each iteration becomes an **epistemic landscape**, a site where cognition and embodiment unfold as collective and distributed processes.
 
 From its origin, UnstableLandscape has been inspired by the **insect notions of life**—the swarm, the hive, and the collective intelligence that emerges without centralized control. I think of these as metaphors for cognition itself: adaptive, relational, and self-organizing. They have guided my inquiry into **living systems**, where perception and intelligence are not properties of individual minds but **distributed across networks of agents, bodies, codes, and environments**. In these systems, cognition becomes a **choreography of relations**, continuously sensing, modulating, and transforming itself.
 
-
-![PXL_20251003_141709339](https://github.com/user-attachments/assets/16682a96-2e4d-413f-9ea3-86511f9e1d1b)
+![PXL_20251003_161719568](https://github.com/user-attachments/assets/5bdc2168-c94d-4f1b-ab11-5d8af4511d93)
 
 
 My work has been shaped by the writings of **Johannes Birringer**, whose notion of dance and interactivity framed early explorations of cybernetic performance; **N. Katherine Hayles**, whose ideas on embodiment and posthuman subjectivity helped articulate cognition as an emergent hybrid field; and **Rodney Brooks**, whose bottom-up robotics and emphasis on situated intelligence influenced my understanding of choreography as a **procedural and adaptive architecture**. These thinkers—and others from systems theory, cognitive philosophy, and dance studies—form the conceptual backbone of UnstableLandscape as both artistic practice and cognitive research.
