@@ -8,7 +8,7 @@ From its origin, UnstableLandscape has been inspired by the **insect notions of 
 
 ![PXL_20251003_141709339](https://github.com/user-attachments/assets/16682a96-2e4d-413f-9ea3-86511f9e1d1b)
 
-My work has been shaped by the writings of **Johannes Birringer**, whose notion of dance and interactivity framed early explorations of cybernetic performance; **N. Katherine Hayles**, whose ideas on embodiment and posthuman subjectivity helped articulate cognition as an emergent hybrid field; and **Rodney Brooks**, whose bottom-up robotics and emphasis on situated intelligence influenced my understanding of choreography as a **procedural and adaptive architecture**. These thinkers—and others from systems theory, cognitive philosophy, and dance studies—form the conceptual backbone of UnstableLandscape as both artistic practice and cognitive research.
+My work has been shaped by the writings of Francisco Varela and Humberto Maturana  as lineage of Gregory Bateson; **N. Katherine Hayles**, whose ideas on embodiment and posthuman subjectivity helped articulate cognition as an emergent hybrid field; and **Rodney Brooks**, whose bottom-up robotics and emphasis on situated intelligence influenced my understanding of choreography as a **procedural and adaptive architecture**. These thinkers—and others from systems theory, cognitive philosophy, and improvisational dance practices studies—form the conceptual backbone of UnstableLandscape as both artistic practice and cognitive research.
 ![PXL_20250930_155254711](https://github.com/user-attachments/assets/952214c9-127e-4d76-9dd2-6633f040ed7d)
 
 Each deployment of UnstableLandscape becomes a **hybrid cognitive assembly**: a living system composed of conscious participants, algorithmic processes, and responsive environments. Within these assemblies, I cultivate **zones of contemplative attention** and **collective ecstasy**—from the quiet intensity of meditation to the immersive pulse of German techno raves. These contrasting modalities expose cognition as both stillness and swarm, both resonance and multiplicity.
@@ -26,6 +26,7 @@ UnstableLandscape has been **deployed in universities, art centers, and festival
 ![PXL_20251003_161719568](https://github.com/user-attachments/assets/5bdc2168-c94d-4f1b-ab11-5d8af4511d93)
 
 This methodology later became the foundation for collaborative projects such as **Pangea in Latent Space** and **The Tectonics of Otherness**, created with **María Luisa Angulo** through **Pangea Inteligencia Artificial (Pangea AI)**—a decolonial and planetary extension of the UnstableLandscape framework, most recently presented at the **Beyond Gravity Festival** in Dortmund, Germany (2025).
+
 ![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://github.com/user-attachments/assets/96dceea2-6615-4790-80ce-076d87d84259)
 
 I first articulated the conceptual foundations of this work in my essay *“Unstable Landscape: Dancing Within Cognitive Systems,”* published in *Dance in the Head / Tanz im Kopf*, edited by **Johannes Wieringer**. The project continues to evolve, informed by **Birringer**, **Hayles**, **Brooks**, **Francisco Varela**, **Donna Haraway**, and the ethos of **somatic improvisation**—each contributing to a vision of **cognition as a living choreography** across human and non-human scales.
@@ -37,11 +38,4 @@ UnstableLandscape remains a **recursive and open organism**—a choreography of 
 
 All images taken bt Marlon barrios Solano at Beyond Gravity Festival in Dortmund, Germany (October 1 to 5th 2025)
 
-## Selected References
-
-- [Johannes Birringer — “Dance and Media Technologies”](https://direct.mit.edu/pajj/article/24/1%20%2870%29/84/55164/Dance-and-Media-Technologies)
-- [N. Katherine Hayles — *How We Became Posthuman* (University of Chicago Press, 1999)](https://press.uchicago.edu/ucp/books/book/chicago/H/bo3769963.html)
-- [Rodney A. Brooks — “Intelligence Without Representation” (*Artificial Intelligence*, 1991)](https://people.csail.mit.edu/brooks/papers/representation.pdf)
-- [Beyond Gravity Festival — Theater im Depot, Dortmund (2025)](https://theaterimdepot.de/en/programm/festivals/beyond-gravity-2025)
-- Francisco J. Varela, Evan Thompson, and Eleanor Rosch — *The Embodied Mind* (MIT Press, 1991)
-- Donna J. Haraway — *When Species Meet* (University of Minnesota Press, 2008)
+![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://github.com/user-attachments/assets/5f5859da-30c1-4bb1-ac47-1ad002b3589d)
