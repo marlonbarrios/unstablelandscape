@@ -9,6 +9,7 @@ From its origin, UnstableLandscape has been inspired by the **insect notions of 
 ![PXL_20251003_141709339](https://github.com/user-attachments/assets/16682a96-2e4d-413f-9ea3-86511f9e1d1b)
 
 My work has been shaped by the writings of **Johannes Birringer**, whose notion of dance and interactivity framed early explorations of cybernetic performance; **N. Katherine Hayles**, whose ideas on embodiment and posthuman subjectivity helped articulate cognition as an emergent hybrid field; and **Rodney Brooks**, whose bottom-up robotics and emphasis on situated intelligence influenced my understanding of choreography as a **procedural and adaptive architecture**. These thinkers—and others from systems theory, cognitive philosophy, and dance studies—form the conceptual backbone of UnstableLandscape as both artistic practice and cognitive research.
+![PXL_20250930_155254711](https://github.com/user-attachments/assets/952214c9-127e-4d76-9dd2-6633f040ed7d)
 
 Each deployment of UnstableLandscape becomes a **hybrid cognitive assembly**: a living system composed of conscious participants, algorithmic processes, and responsive environments. Within these assemblies, I cultivate **zones of contemplative attention** and **collective ecstasy**—from the quiet intensity of meditation to the immersive pulse of German techno raves. These contrasting modalities expose cognition as both stillness and swarm, both resonance and multiplicity.
 
