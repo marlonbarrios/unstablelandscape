@@ -2,8 +2,6 @@
 
 ![PXL_20251004_201726349](https://github.com/user-attachments/assets/72878cf4-ab8f-4db8-81e4-0f20f269d013)
 
-
-
 I began developing **UnstableLandscape** in 1997 as a living and evolving system—a **procedural ecology** that merges performance, technology, and philosophy. It is not a fixed work but a **hybrid field of emergence**, composed of performances, installations, and lecture-experiments that generate **polyphonic, polymorphic, and multisensorial spaces**. Each iteration becomes an **epistemic landscape**, a site where cognition and embodiment unfold as collective and distributed processes.
 
 From its origin, UnstableLandscape has been inspired by the **insect notions of life**—the swarm, the hive, and the collective intelligence that emerges without centralized control. I think of these as metaphors for cognition itself: adaptive, relational, and self-organizing. They have guided my inquiry into **living systems**, where perception and intelligence are not properties of individual minds but **distributed across networks of agents, bodies, codes, and environments**. In these systems, cognition becomes a **choreography of relations**, continuously sensing, modulating, and transforming itself.
@@ -27,12 +25,16 @@ UnstableLandscape has been **deployed in universities, art centers, and festival
 ![PXL_20251003_161719568](https://github.com/user-attachments/assets/5bdc2168-c94d-4f1b-ab11-5d8af4511d93)
 
 This methodology later became the foundation for collaborative projects such as **Pangea in Latent Space** and **The Tectonics of Otherness**, created with **María Luisa Angulo** through **Pangea Inteligencia Artificial (Pangea AI)**—a decolonial and planetary extension of the UnstableLandscape framework, most recently presented at the **Beyond Gravity Festival** in Dortmund, Germany (2025).
+![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://github.com/user-attachments/assets/96dceea2-6615-4790-80ce-076d87d84259)
 
 I first articulated the conceptual foundations of this work in my essay *“Unstable Landscape: Dancing Within Cognitive Systems,”* published in *Dance in the Head / Tanz im Kopf*, edited by **Johannes Wieringer**. The project continues to evolve, informed by **Birringer**, **Hayles**, **Brooks**, **Francisco Varela**, **Donna Haraway**, and the ethos of **somatic improvisation**—each contributing to a vision of **cognition as a living choreography** across human and non-human scales.
 
 UnstableLandscape remains a **recursive and open organism**—a choreography of thought, sensation, and relation that performs within, and as, cognitive assemblies.
 
 ---
+![PXL_20251002_201724179](https://github.com/user-attachments/assets/33ad954b-9c0c-472e-9197-22f598b2cb44)
+
+All images taken bt Marlon barrios Solano at Beyond Gravity Festival in Dortmund, Germany (October 1 to 5th 2025)
 
 ## Selected References
 
