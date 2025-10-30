@@ -1,5 +1,7 @@
 # UnstableLandscape: Performing Within Cognitive Assemblies
 
+![PXL_20251004_201726349](https://github.com/user-attachments/assets/72878cf4-ab8f-4db8-81e4-0f20f269d013)
+
 ![PXL_20251003_141709339](https://github.com/user-attachments/assets/16682a96-2e4d-413f-9ea3-86511f9e1d1b)
 
 I began developing **UnstableLandscape** in 1997 as a living and evolving system—a **procedural ecology** that merges performance, technology, and philosophy. It is not a fixed work but a **hybrid field of emergence**, composed of performances, installations, and lecture-experiments that generate **polyphonic, polymorphic, and multisensorial spaces**. Each iteration becomes an **epistemic landscape**, a site where cognition and embodiment unfold as collective and distributed processes.
@@ -23,7 +25,7 @@ In recent years, **artificial intelligence** has become a key co-creator within 
 
 UnstableLandscape has been **deployed in universities, art centers, and festivals** in the **United States, Germany, Venezuela, and Spain**, adapting to each context as performance, installation, or inquiry-based environment. Many of its components also exist online, as **open-source applications and living systems** that continue to evolve beyond the physical site.
 
-![PXL_20251004_201726349](https://github.com/user-attachments/assets/72878cf4-ab8f-4db8-81e4-0f20f269d013)
+
 
 This methodology later became the foundation for collaborative projects such as **Pangea in Latent Space** and **The Tectonics of Otherness**, created with **María Luisa Angulo** through **Pangea Inteligencia Artificial (Pangea AI)**—a decolonial and planetary extension of the UnstableLandscape framework, most recently presented at the **Beyond Gravity Festival** in Dortmund, Germany (2025).
 
