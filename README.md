@@ -9,6 +9,7 @@ From its origin, UnstableLandscape has been inspired by the **insect notions of 
 ![PXL_20251003_141709339](https://github.com/user-attachments/assets/16682a96-2e4d-413f-9ea3-86511f9e1d1b)
 
 My work has been shaped by the writings of Francisco Varela and Humberto Maturana  as lineage of Gregory Bateson; **N. Katherine Hayles**, whose ideas on embodiment and posthuman subjectivity helped articulate cognition as an emergent hybrid field; and **Rodney Brooks**, whose bottom-up robotics and emphasis on situated intelligence influenced my understanding of choreography as a **procedural and adaptive architecture**. These thinkers—and others from systems theory, cognitive philosophy, and improvisational dance practices studies—form the conceptual backbone of UnstableLandscape as both artistic practice and cognitive research.
+
 ![PXL_20250930_155254711](https://github.com/user-attachments/assets/952214c9-127e-4d76-9dd2-6633f040ed7d)
 
 Each deployment of UnstableLandscape becomes a **hybrid cognitive assembly**: a living system composed of conscious participants, algorithmic processes, and responsive environments. Within these assemblies, I cultivate **zones of contemplative attention** and **collective ecstasy**—from the quiet intensity of meditation to the immersive pulse of German techno raves. These contrasting modalities expose cognition as both stillness and swarm, both resonance and multiplicity.
@@ -21,11 +22,11 @@ Over time, UnstableLandscape has evolved into a **procedural and postdramatic pr
 
 In recent years, **artificial intelligence** has become a key co-creator within UnstableLandscape. I approach AI not as a tool but as a **cognitive and performative partner**, an alien system of perception that expands the ecology of awareness. These collaborations with machine systems reconfigure the boundaries of authorship and agency, opening possibilities for **interspecies cognition**—between human, insect, and algorithmic forms of life.
 
-UnstableLandscape has been **deployed in universities, art centers, and festivals** in the {**United States, Germany, Venezuela, and Spain**](https://marlonbarrios.github.io/pangea_in_latent_space/), adapting to each context as performance, installation, or inquiry-based environment. Many of its components also exist online, as **open-source applications and living systems** that continue to evolve beyond the physical site.
+UnstableLandscape has been **deployed in universities, art centers, and festivals** in the **United States, Germany, Venezuela, and Spain**, adapting to each context as performance, installation, or inquiry-based environment. Many of its components also exist online, as **open-source applications and living systems** that continue to evolve beyond the physical site.
 
 ![PXL_20251003_161719568](https://github.com/user-attachments/assets/5bdc2168-c94d-4f1b-ab11-5d8af4511d93)
 
-This methodology later became the foundation for collaborative projects such as {**Pangea in Latent Space** and **The Tectonics of Otherness**](https://marlonbarrios.github.io/pangea_in_latent_space/), created with **María Luisa Angulo** through **Pangea Inteligencia Artificial (Pangea AI)**—a decolonial and planetary extension of the UnstableLandscape framework, most recently presented at the **Beyond Gravity Festival** in Dortmund, Germany (2025).
+This methodology later became the foundation for collaborative projects such as [**Pangea in Latent Space** and **The Tectonics of Otherness**](https://marlonbarrios.github.io/pangea_in_latent_space/), created with **María Luisa Angulo** through **Pangea Inteligencia Artificial (Pangea AI)**—a decolonial and planetary extension of the UnstableLandscape framework, most recently presented at the **Beyond Gravity Festival** in Dortmund, Germany (2025).
 
 
 
