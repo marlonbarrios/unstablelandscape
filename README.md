@@ -13,11 +13,16 @@ My work has been shaped by the writings of **Johannes Birringer**, whose notion 
 
 Each deployment of UnstableLandscape becomes a **hybrid cognitive assembly**: a living system composed of conscious participants, algorithmic processes, and responsive environments. Within these assemblies, I cultivate **zones of contemplative attention** and **collective ecstasy**—from the quiet intensity of meditation to the immersive pulse of German techno raves. These contrasting modalities expose cognition as both stillness and swarm, both resonance and multiplicity.
 
+![PXL_20251005_170255119](https://github.com/user-attachments/assets/33686f8c-5652-493b-b039-fd82dc3885a3)
+
 Over time, UnstableLandscape has evolved into a **procedural and postdramatic practice**. I design algorithmic systems, improvisational frameworks, and choreographic scores that behave like **autonomous organisms**, generating emergent patterns rather than reproducing predetermined ones. This approach allows me to think of choreography as an **epistemic technology**—a way of researching distributed intelligence through embodied and computational experimentation.
+
+![PXL_20251003_141311277](https://github.com/user-attachments/assets/02a4e991-77c2-4026-9d7d-ecb98e9adb06)
 
 In recent years, **artificial intelligence** has become a key co-creator within UnstableLandscape. I approach AI not as a tool but as a **cognitive and performative partner**, an alien system of perception that expands the ecology of awareness. These collaborations with machine systems reconfigure the boundaries of authorship and agency, opening possibilities for **interspecies cognition**—between human, insect, and algorithmic forms of life.
 
 UnstableLandscape has been **deployed in universities, art centers, and festivals** in the **United States, Germany, Venezuela, and Spain**, adapting to each context as performance, installation, or inquiry-based environment. Many of its components also exist online, as **open-source applications and living systems** that continue to evolve beyond the physical site.
+
 ![PXL_20251004_201726349](https://github.com/user-attachments/assets/72878cf4-ab8f-4db8-81e4-0f20f269d013)
 
 This methodology later became the foundation for collaborative projects such as **Pangea in Latent Space** and **The Tectonics of Otherness**, created with **María Luisa Angulo** through **Pangea Inteligencia Artificial (Pangea AI)**—a decolonial and planetary extension of the UnstableLandscape framework, most recently presented at the **Beyond Gravity Festival** in Dortmund, Germany (2025).
