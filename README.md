@@ -27,7 +27,7 @@ UnstableLandscape has been **deployed in universities, art centers, and festival
 
 This methodology later became the foundation for collaborative projects such as **Pangea in Latent Space** and **The Tectonics of Otherness**, created with **María Luisa Angulo** through **Pangea Inteligencia Artificial (Pangea AI)**—a decolonial and planetary extension of the UnstableLandscape framework, most recently presented at the **Beyond Gravity Festival** in Dortmund, Germany (2025).
 
-![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://github.com/user-attachments/assets/96dceea2-6615-4790-80ce-076d87d84259)
+
 
 I first articulated the conceptual foundations of this work in my essay *“Unstable Landscape: Dancing Within Cognitive Systems,”* published in *Dance in the Head / Tanz im Kopf*, edited by **Johannes Wieringer**. The project continues to evolve, informed by **Birringer**, **Hayles**, **Brooks**, **Francisco Varela**, **Donna Haraway**, and the ethos of **somatic improvisation**—each contributing to a vision of **cognition as a living choreography** across human and non-human scales.
 
@@ -39,3 +39,4 @@ UnstableLandscape remains a **recursive and open organism**—a choreography of 
 All images taken bt Marlon barrios Solano at Beyond Gravity Festival in Dortmund, Germany (October 1 to 5th 2025)
 
 ![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://github.com/user-attachments/assets/5f5859da-30c1-4bb1-ac47-1ad002b3589d)
+![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://github.com/user-attachments/assets/96dceea2-6615-4790-80ce-076d87d84259)
