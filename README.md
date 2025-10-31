@@ -37,7 +37,8 @@ UnstableLandscape remains a **recursive and open organism**—a choreography of 
 ---
 ![PXL_20251002_201724179](https://github.com/user-attachments/assets/33ad954b-9c0c-472e-9197-22f598b2cb44)
 
-All images taken bt Marlon barrios Solano at Beyond Gravity Festival in Dortmund, Germany (October 1 to 5th 2025)
-
 ![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://github.com/user-attachments/assets/5f5859da-30c1-4bb1-ac47-1ad002b3589d)
+
+![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
+
 
