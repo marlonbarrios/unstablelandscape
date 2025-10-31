@@ -34,7 +34,8 @@ UnstableLandscape has been **deployed in universities, art centers, and festival
 
 This methodology later became the foundation for collaborative projects such as [**Pangea in Latent Space** and **The Tectonics of Otherness**](https://marlonbarrios.github.io/pangea_in_latent_space/), created with **María Luisa Angulo** through **Pangea Inteligencia Artificial (Pangea AI)**—a decolonial and planetary extension of the UnstableLandscape framework, most recently presented at the **Beyond Gravity Festival** in Dortmund, Germany (2025).
 
-
+![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://github.com/user-attachments/assets/5f5859da-30c1-4bb1-ac47-1ad002b3589d)
+*The Tectonics of Otherness at Beyong Gravity Festival October 1-5th 2025 *
 
 I first articulated the conceptual foundations of this work in my essay *“Unstable Landscape: Dancing Within Cognitive Systems,”* published in *Dance in the Head / Tanz im Kopf*, edited by **Johannes Wieringer**. The project continues to evolve, informed by **Birringer**, **Hayles**, **Brooks**, **Francisco Varela**, **Donna Haraway**, and the ethos of **somatic improvisation**—each contributing to a vision of **cognition as a living choreography** across human and non-human scales.
 
@@ -44,9 +45,6 @@ UnstableLandscape remains a **recursive and open organism**—a choreography of 
 ![PXL_20251002_201724179](https://github.com/user-attachments/assets/33ad954b-9c0c-472e-9197-22f598b2cb44)
 *The Tectonics of Otherness at Beyong Gravity Festival October 1-5th 2025 *
 
-![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://github.com/user-attachments/assets/5f5859da-30c1-4bb1-ac47-1ad002b3589d)
-*UnstableLandscape at Connecticut College 2020 *
-
 ![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
-
+*UnstableLandscape at Connecticut College 2020 *
 
