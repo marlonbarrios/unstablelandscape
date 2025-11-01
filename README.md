@@ -32,7 +32,7 @@ UnstableLandscape has been **deployed in universities, art centers, and festival
 ![PXL_20251003_161719568](https://github.com/user-attachments/assets/5bdc2168-c94d-4f1b-ab11-5d8af4511d93)
 *The Tectonics of Otherness at Beyong Gravity Festival October 1-5th 2025*
 
-This methodology later became the foundation for collaborative projects such as [**Pangea in Latent Space** and **The Tectonics of Otherness**](https://marlonbarrios.github.io/pangea_in_latent_space/), created with **María Luisa Angulo** through **Pangea Inteligencia Artificial (Pangea AI)**—a decolonial and planetary extension of the UnstableLandscape framework, most recently presented at the **Beyond Gravity Festival** in Dortmund, Germany (2025).
+This methodology later became the foundation for collaborative projects such as [**Pangea in Latent Space** and **The Tectonics of Otherness**](https://marlonbarrios.github.io/pangea_in_latent_space-_tectonics_of-_otherness/), created with **María Luisa Angulo** through **Pangea Inteligencia Artificial (Pangea AI)**—a decolonial and planetary extension of the UnstableLandscape framework, most recently presented at the **Beyond Gravity Festival** in Dortmund, Germany (2025).
 
 ![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://github.com/user-attachments/assets/5f5859da-30c1-4bb1-ac47-1ad002b3589d)
 *The Tectonics of Otherness at Beyong Gravity Festival October 1-5th 2025*
