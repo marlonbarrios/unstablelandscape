@@ -46,5 +46,5 @@ UnstableLandscape remains a **recursive and open organism**—a choreography of 
 *The Tectonics of Otherness at Beyong Gravity Festival October 1-5th 2025*
 
 ![PXL_20251002_194336257 ACTION_PAN-01 COVER](https://user-images.githubusercontent.com/90220317/170346044-60243b6e-7764-45ea-8253-1d4f76036ca2.png)
-*UnstableLandscape at Connecticut College 2020 *
+*UnstableLandscape at Connecticut College 2020*
 
