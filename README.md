@@ -1,4 +1,4 @@
-# UnstableLandscape: Performing Within Cognitive Assemblages  
+# UnstableLandscape: Engineering and Performing Within Cognitive Assemblages  
 
 ![PXL_20251004_201726349](https://github.com/user-attachments/assets/72878cf4-ab8f-4db8-81e4-0f20f269d013)  
 *The Tectonics of Otherness at Beyond Gravity Festival, October 1–5th, 2025*  
